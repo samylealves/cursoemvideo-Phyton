@@ -1,2 +1,2 @@
-# cursoemvideo-Phyton
- Exercícios do Curso em vídeo Python
+# Curso em Vídeo - Phyton
+ Exercícios do Curso em vídeo Python 3
